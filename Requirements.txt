@@ -1,0 +1,33 @@
+#Virtual Env with the following packages
+
+asgiref==3.8.1
+
+Django==5.0.7
+
+djangorestframework==3.15.2
+
+djangorestframework-simplejwt==5.3.1
+
+mysql==0.0.3
+
+mysqlclient==2.2.4
+
+PyJWT==2.9.0
+
+PyMySQL==1.1.1
+
+sqlparse==0.5.1
+
+tzdata==2024.1
+
+
+#Imports Used
+
+datetime
+
+rest_framework_simplejwt
+
+django
+
+pymysql
+
